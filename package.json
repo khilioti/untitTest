@@ -1,0 +1,23 @@
+{
+  "name": "untittest",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ls",
+    "jaavascript",
+    "unit",
+    "testing"
+  ],
+  "author": "Nikita <n.khilioti@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
